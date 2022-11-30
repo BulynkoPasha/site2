@@ -271,16 +271,16 @@ table{
 }
 @media only screen and (max-width: 620px) {
     .fp{
-        font-size: 100%;
+        font-size: 80%;
     }
     .fp2{
-        font-size: 100%;
+        font-size: 80%;
     }
     .sp{
-        font-size: 60%;
+        font-size: 50%;
     }
     .sp2{
-        font-size: 60%;
+        font-size: 50%;
     }
 }
 .bl{
