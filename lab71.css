@@ -283,17 +283,7 @@ table{
         font-size: 50%;
     }
     .ThePFrWH22{
-        font-family: 'Roboto', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 17px;
-        line-height: 24px;
-        color: #949494;
-        position: relative;
-        right: 88px;
-        top: 68px;
-        max-width: 50%;
-        cursor: default;
+        dysplay: none;
     }
 }
 .bl{
